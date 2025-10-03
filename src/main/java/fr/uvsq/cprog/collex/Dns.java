@@ -6,6 +6,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Dns {
     private List<DnsItem> items;
     private Path fichier;  // fichier texte qui stocke la base
